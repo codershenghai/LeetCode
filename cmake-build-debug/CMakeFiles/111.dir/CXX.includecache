@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/78247/CLionProjects/LeetCode/Tree/111. Minimum Depth of Binary Tree.cpp
+iostream
+-
+Tree.h
+C:/Users/78247/CLionProjects/LeetCode/Tree/Tree.h
+algorithm
+-
+limits.h
+-
+
+C:/Users/78247/CLionProjects/LeetCode/Tree/Tree.h
+

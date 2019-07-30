@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/78247/CLionProjects/LeetCode/Tree/101. Symmetric Tree.cpp
+iostream
+-
+Tree.h
+C:/Users/78247/CLionProjects/LeetCode/Tree/Tree.h
+
+C:/Users/78247/CLionProjects/LeetCode/Tree/Tree.h
+

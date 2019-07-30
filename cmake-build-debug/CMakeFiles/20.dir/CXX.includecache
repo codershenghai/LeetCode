@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/78247/CLionProjects/LeetCode/Stack/20. Valid Parentheses.cpp
+iostream
+-
+stack
+-
+string
+-
+unordered_map
+-
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/78247/CLionProjects/LeetCode/LinkedList/24. Swap Nodes in Pairs.cpp
+LinkedList.h
+C:/Users/78247/CLionProjects/LeetCode/LinkedList/LinkedList.h
+iostream
+-
+
+C:/Users/78247/CLionProjects/LeetCode/LinkedList/LinkedList.h
+
